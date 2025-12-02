@@ -1,4 +1,4 @@
-package com.javaBasic.loop;
+package com.javaLearning.loop;
 
 import java.util.Scanner;
 

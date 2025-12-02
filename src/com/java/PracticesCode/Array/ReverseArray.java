@@ -1,6 +1,5 @@
-package com.java.PracticesCode;
+package com.java.PracticesCode.Array;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ReverseArray {

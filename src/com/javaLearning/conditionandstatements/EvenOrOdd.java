@@ -1,4 +1,4 @@
-package com.javaBasic.conditionandstatements;
+package com.javaLearning.conditionandstatements;
 
 import java.util.Scanner;
 

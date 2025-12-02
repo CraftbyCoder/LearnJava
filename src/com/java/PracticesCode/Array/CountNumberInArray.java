@@ -1,4 +1,4 @@
-package com.java.PracticesCode;
+package com.java.PracticesCode.Array;
 
 import java.util.Scanner;
 

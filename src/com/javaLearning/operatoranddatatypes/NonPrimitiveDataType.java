@@ -1,4 +1,4 @@
-package com.javaBasic.operatoranddatatypes;
+package com.javaLearning.operatoranddatatypes;
 
 public class NonPrimitiveDataType {
 

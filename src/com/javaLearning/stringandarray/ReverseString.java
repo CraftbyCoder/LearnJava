@@ -1,4 +1,4 @@
-package com.javaBasic.stringandarray;
+package com.javaLearning.stringandarray;
 
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.java.PracticesCode;
+package com.java.PracticesCode.Array;
 
 public class LargestNumberInArray {
     public static void main(String[] args){
